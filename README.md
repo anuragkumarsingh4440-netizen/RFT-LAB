@@ -107,7 +107,7 @@ This makes reasoning:
 - Focus was on **architecture & reasoning**, not frontend robustness
 - Multiple Streamlit constraints (keys, layout, state) were learned during experimentation
 
-➡️ **Recruiters should treat `app.py` as optional**  
+
 ➡️ **The real value lies in the notebooks and architectural thinking**
 
 ---
